@@ -50,5 +50,7 @@ A fully functional and responsive **real-time chat application** that supports:
 ---
 
 ## OUTPUT  
+<img width="1010" height="456" alt="Image" src="https://github.com/user-attachments/assets/a14fd817-ca32-491a-8015-891fd20133ac" />
 
+<img width="1062" height="506" alt="Image" src="https://github.com/user-attachments/assets/643e73bc-18a9-4762-83cd-19ad8537d528" />
 ---
