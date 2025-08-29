@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Codetech E-Learning Platform</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>Codetech E-Learning Platform</header>
+<main>
+  <div id="course-list-page" class="page">
+    <h1>Available Courses</h1>
+    <div class="course-list" id="courses-container">
+    </div>
+  </div>
+  <div id="course-detail-page" class="page" style="display:none;">
+    <div class="breadcrumb" id="breadcrumb">
+      <span id="back-to-list">&#8592; Course List</span> &gt; <span id="course-name-breadcrumb"></span>
+    </div>
+    <div class="course-detail">
+      <h2 id="course-title"></h2>
+      <div class="video-wrapper">
+        <div id="player"></div>
+      </div>
+      <div class="progress-container">
+        <div class="progress-label">Progress</div>
+        <div class="progress-bar">
+          <div class="progress-bar-fill" id="progress-bar-fill"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+<footer>@2025 Codetech IT Solution</footer>
+<script src="script.js"></script>
+</body>
+</html>
+
